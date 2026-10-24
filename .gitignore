@@ -1,0 +1,21 @@
+# Rust
+/target/
+*.rs.boring
+
+# Nuvio local data
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
